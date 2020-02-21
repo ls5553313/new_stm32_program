@@ -1,0 +1,10 @@
+..\..\output\button_bitmaps.o: ..\..\STemWin_Task\BUTTON_Bitmaps.c
+..\..\output\button_bitmaps.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\..\output\button_bitmaps.o: ..\..\STemWin\inc\GUI.h
+..\..\output\button_bitmaps.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\..\output\button_bitmaps.o: ..\..\STemWin\inc\GUI_ConfDefaults.h
+..\..\output\button_bitmaps.o: ..\..\STemWin\Config\GUIConf.h
+..\..\output\button_bitmaps.o: ..\..\STemWin\inc\GUI_Type.h
+..\..\output\button_bitmaps.o: ..\..\STemWin\inc\LCD.h
+..\..\output\button_bitmaps.o: ..\..\STemWin\inc\Global.h
+..\..\output\button_bitmaps.o: ..\..\STemWin\inc\GUI_Version.h
